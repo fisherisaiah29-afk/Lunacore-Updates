@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "download_url": "https://github.com/fisherisaiah29-afk/Lunacore-Updates/releases/download/v1.0.1/Lunacore-1.0.1.zip",
-  "sha256": "4DB0E180A6F705A64D40AB355FCDAB1F0334400A204697922BB1B552382E7E3C",
+  "sha256": "37CC80B7836ECCDDDEF9677849E8894E9C0714BAE3856A9B4FF517AF311931D2",
   "notes": "Initial Pokemon Lunacore auto-updater test.",
   "create_backup": true
 }
